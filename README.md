@@ -8,6 +8,12 @@
 仓库地址：
 [https://github.com/suica/ganso-bandori-chan-klotski](https://github.com/suica/ganso-bandori-chan-klotski)
 
+## 原始 Prompt
+
+```
+"元祖邦多利酱"这个动画里出现了一个华容道，请搜索相关资料，帮我写代码复刻它！一定要完全一样
+```
+
 ## 保留文件
 
 - `index.html`: 页面入口
