@@ -1,6 +1,6 @@
 # 元祖邦多利酱 华容道复刻
 
-这是一个可直接打开的静态网页复刻。
+这是一个由 Codex 创建并整理的可直接打开的静态网页复刻。
 
 在线地址：
 [https://ganso-bandori-chan-klotski.vercel.app](https://ganso-bandori-chan-klotski.vercel.app)
