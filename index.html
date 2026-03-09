@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>元祖邦多利酱 华容道复刻</title>
+    <meta
+      name="description"
+      content="根据《元祖！バンドリちゃん》第19话《箱入りミッシェル》画面复刻的华容道场景。"
+    />
+    <link rel="stylesheet" href="./src/styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <div class="scene-viewport">
+        <section class="scene" aria-label="元祖邦多利酱 第19话 华容道复刻">
+          <div class="board-base" aria-hidden="true">
+            <div class="board-frame"></div>
+            <div class="board-cells" id="board-cells"></div>
+            <div class="exit-slot"></div>
+            <div class="exit-divider"></div>
+          </div>
+          <div class="pieces-layer" id="pieces-layer"></div>
+          <div class="clear-badge" id="clear-badge" aria-live="polite">CLEAR</div>
+        </section>
+      </div>
+    </main>
+    <script type="module" src="./src/app.js"></script>
+  </body>
+</html>
